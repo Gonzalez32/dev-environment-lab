@@ -1,4 +1,7 @@
+![_**ReadMe**_](https://i.imgur.com/GBBpGXD.png)
+
 # dev-environment-lab
+<<<<<<< HEAD
 # dev-environment-lab
 
 my-dev-environment
@@ -136,3 +139,6 @@ Global Git Ignore
 
 Contents of /Users/carlos/.gitignore_global
 
+=======
+#### dev-environment-lab
+>>>>>>> cff3f2a2e56a503454c9d80eb220e348b130737e
