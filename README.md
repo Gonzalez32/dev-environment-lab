@@ -1,3 +1,3 @@
-![**_Imgur_**](https://imgur.com/GBBpGXD)
+![Imgur](https://imgur.com/GBBpGXD)
 
 # dev-environment-lab
